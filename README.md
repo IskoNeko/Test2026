@@ -8,3 +8,8 @@ Repositorio de exploración técnica
 Repositorio de exploración técnica
 
 ## Otra prueba
+
+`esto para que?`
+
+* don't
+  - lol
